@@ -1,0 +1,1 @@
+# ShopEasy-Consumer-Intelligence-Funnel-Sentiment-Analysis
