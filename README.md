@@ -58,6 +58,21 @@ Raw CSVs (6 tables)
          ├── Calendar Dimension (1,095 days)
          ├── DAX Measures
          └── 4-Page Interactive Dashboard
+OverView Page
+
 <img width="1269" height="794" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/5cb8b441-e847-4939-88cc-cf6d2451d359" />
 
+Sentiment Page
+
+<img width="1250" height="698" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/1a7ae217-dbe5-413b-867a-405a22efcd14" />
+
+
+Conversion Page
+
+<img width="1235" height="716" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/5d0823c7-f85c-40a1-b8df-2c3dcfbcd72e" />
+
+
+Marketing Page
+
+<img width="1246" height="726" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/4081101c-b1ce-4253-bf92-5882b942beb4" />
 
